@@ -1,6 +1,6 @@
 # Excel Cafe Sales Dashboard
 
-![preview](/cafe_sales_dashboard_preview.png)
+![preview](cafe_sales_project/cafe_sales_dashboard_preview.png)
 
 ## Insights
 * Despite middling popularity, salad generates the most revenue due to having the highest unit price. Consider focusing advertising efforts on salads to increase sales volume.
